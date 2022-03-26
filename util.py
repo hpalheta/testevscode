@@ -1,1 +1,1 @@
-print("Integração Gig com python")
+print("Integração Git com python")
